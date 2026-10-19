@@ -1,5 +1,5 @@
 export const wishes = {
-  date: '22.10.2026',
+  date: '20.10.2026',
   intro: 'Có một điều đặc biệt dành cho em...',
   invitation: 'Chạm để nhận bất ngờ',
   title: 'Một khu vườn nhỏ, dành cho một người thật đặc biệt.',
